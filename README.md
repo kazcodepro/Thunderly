@@ -16,4 +16,7 @@
 - **🎨 Dark Mode & Custom UI Themes** – Dynamic UI that changes based on weather conditions.  
 - **🌎 Interactive Radar Maps** – View cloud movement, storms, and precipitation.  
 - **📢 Severe Weather Alerts** – Get notified when extreme weather is incoming.
-![New_Project_-_2025-03-17T210141 796](https://github.com/user-attachments/assets/ae0c0698-67b4-4f10-a098-630ecdac251e)
+
+
+![New_Project_-_2025-03-17T205845 760](https://github.com/user-attachments/assets/e1360ff1-334b-42e3-a423-057c4abdc271)
+![New-Project-2025-03-17-T205942-143](https://github.com/user-attachments/assets/ca49c278-7580-47b6-bbee-62369d9da96f)
